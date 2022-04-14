@@ -1,0 +1,7 @@
+Django==3.1.6
+waitress==2.1.0
+sqlparse==0.4.1
+passlib==1.7.0
+SQLAlchemy==1.1.5
+whitenoise==6.0.0
+django-allauth==0.50.0

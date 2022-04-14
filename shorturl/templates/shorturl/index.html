@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1.0" />
+    <title>URL Shortener</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'shorturl/style.css' %}">
+</head>
+<body>
+<div id="content">
+{% block content %} {% endblock %}
+</div>
+<p></p>
+<div>
+<a href="http://localhost:8000/accounts/logout"><button>Sign Out</button></a>
+</div>
+</body>
+</html>

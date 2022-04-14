@@ -1,0 +1,4 @@
+include README.rst
+recursive-include shorturl/static *
+recursive-include shorturl/templates *
+recursive-include docs *
