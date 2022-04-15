@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+}
+
+body {
+    background: white url("images/login.bd50809a282b.jpg") no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: red;
+}
