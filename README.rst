@@ -8,7 +8,8 @@ Using instructions:
 First time users need to sign up to the webpage with their emails in order to use the service. There is no limit for URL shortening. After you're done, you can logout by clicking on 'Sign Out' button. This will direct you to the home page.
 
 Django framework was used to develop this app.
-Back-end: Python
+Back-end: Python;
+Storage: Whitenoise;
 Front-end: HTML, CSS & Javascript
 
 Quick start
