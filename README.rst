@@ -11,8 +11,6 @@ Django framework was used to develop this app.
 Back-end: Python
 Front-end: HTML, CSS & Javascript
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
