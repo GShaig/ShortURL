@@ -7,10 +7,12 @@ ShortURL is a URL shortener app built in Python by Shaig Gafarli. Short URLs wil
 Using instructions:
 First time users need to sign up to the webpage with their emails in order to use the service. There is no limit for URL shortening. After you're done, you can logout by clicking on 'Sign Out' button. This will direct you to the home page.
 
+Used Python libraries: django-allauth, Whitenoise, Waitress
+
 Django framework was used to develop this app.
 Back-end: Python;
 Storage: Whitenoise;
-Front-end: HTML, CSS & Javascript
+Front-end: HTML & CSS
 
 Quick start
 -----------
