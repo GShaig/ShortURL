@@ -34,6 +34,3 @@ Quick start
 to login as admin.
 
 5. Visit http://127.0.0.1:8000/ to shorten your URLs.
-
-ShortURL App was deployed to Heroku.
-Please visit: https://urlworld.herokuapp.com
